@@ -1,4 +1,4 @@
-# Sample webserver for Spinnaker codelabs
+# Sample webserver for Spinnaker codelab
 
 Source to production Kubernetes Spinnaker artifact code is staged here. The point is
 to provide a simple webserver that can have its colors/content quickly tweaked
